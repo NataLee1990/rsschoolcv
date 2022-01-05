@@ -1,1 +1,2 @@
-https://github.com/NataLee1990/rsschoolcv/blob/gh-pages/cv.md
+https://NataLee1990.github.io/rsschoolcv/cv
+https://NataLee1990.github.io/rsschoolcv/

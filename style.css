@@ -53,6 +53,10 @@ html {
     }
   }
 .footer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
     font-family: 'Pushster', cursive;
     padding: 0 20px;
     line-height: 50px;

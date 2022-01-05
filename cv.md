@@ -1,2 +1,2 @@
 Shokun Natalya
-Frontend developer.
+Frontend developer

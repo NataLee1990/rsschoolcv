@@ -52,11 +52,11 @@ html {
       width: 100%;
     }
   }
-.nav{
+.footer{
     display: flex;
     justify-content: space-between;
-    align-items: left;
-    list-style: none;
+    align-items: stretch ;
+    list-style: ;
     line-height: 50px;
     font-family: 'Pushster', cursive;
     background-color: khaki;

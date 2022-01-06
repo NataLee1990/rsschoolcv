@@ -53,16 +53,20 @@ html {
     }
   }
 .footer{
-    display: flex;
-    justify-content: space-between;
-    align-items: stretch ;
-    list-style: ;
+    list-style: none ;
     line-height: 50px;
     font-family: 'Pushster', cursive;
     background-color: khaki;
+  
+  }
+  .container1{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    list-style: none;
 
-    
-}
+  }
+
 
 * {
     box-sizing: border-box;
@@ -78,3 +82,4 @@ html {
     min-height: 100vh;
     margin: 0; padding: 0;
   }
+  
